@@ -22,7 +22,9 @@ pip install -U google-generativeai
 
 
 3. Set your API Key:
-* Edit `agent.py` and replace `"YOUR_GEMINI_API_KEY"` with your key.
+```bash
+export GEMINI_API_KEY="YOUR_GEMINI_API_KEY"
+```
 
 
 
